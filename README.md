@@ -2,7 +2,7 @@
 
 OPENAI 编写的一个plex-mac-server服务器非官方汉化文件替换脚本。
 
-脚本引用[x1ao4]([x1ao4 (x1ao4) · GitHub](https://github.com/x1ao4))进行翻译更新的[文件](https://github.com/x1ao4/plex-locale-zhcn)。
+脚本引用[x1ao4]((https://github.com/x1ao4))进行翻译更新的[文件](https://github.com/x1ao4/plex-locale-zhcn)。
 
 <mark>**使用方法：**</mark>
 
