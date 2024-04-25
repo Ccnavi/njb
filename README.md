@@ -1,6 +1,6 @@
 # NJB mac系统下plex脚本替换翻译文件
 
-OPENAI 编写的一个plex-mac-server非官方汉化脚本。
+OPENAI 编写的一个plex-mac-server服务器非官方汉化文件替换脚本。
 
 脚本引用x1ao4进行翻译更新的文件。
 
